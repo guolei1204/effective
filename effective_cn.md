@@ -46,23 +46,23 @@
   - 人穷多读书,读的越多才能一览众山小.
   - 保持好的人际关系
 
-### Prioritize Regularly
-- Opportunity cost of working on wrong ideas can set back growth by years.
-- Prioritize tasks based on ROI
+### 一般优先级
+- 坏的工作方向,影响是深远的[找对方向,不能南辕北辙]
+- 付出的和回报要成正比
 - Regular prioritization is high leverage activity.
-- On TODO Lists
-  - Maintain a 'single' todo lists where all tasks are listed.
-  - Don't try to remember stuff. Brain is bad at remembering. It's rather good at processing.
-- Ask yourself regularly: Is this the most important thing I should be working on ?
-- Focus on what directly produces value.
-- Learn to say no.
-- Focus on the important and non-urgent.
-- Find ways to get into flow. “A state of effortless concentration so deep that they lose their sense of time, of themselves, of their problems.”
-- When possible, preserve larger blocks of focused time in your schedule.
-- Limit the amount of Work in Progress.
-  - Cost of context switching is high.
-- Prioritizing is difficult.
-- Prioritization is high leverage. It has huge impact on your ability to get right things done.
+- 做TODO列表
+  - 分解工作任务到列表
+  - 不要试图记住所有东西，用的时候查文档
+- 经常问自己： 这事情是我最优先级处理的么？
+- 专注更有价值的东西
+- 学会说不
+- 关注重要的任务而不是紧急的任务
+- 进入到废寝忘食的状态，并保持热情
+- 如果可能，尽量避免耗时的任务[可能是任务分解不够细]
+- 控制工作节奏,尽量不让外界打扰
+  - 思考被中断，来回做不同的任务很浪费时间
+- Prioritizing is difficult.排序优先级很难
+- 专注把正确的事情做完美
 
 
 ### Invest in Iteration Speed
