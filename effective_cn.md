@@ -65,15 +65,15 @@
 - 专注把正确的事情做完美
 
 
-### Invest in Iteration Speed
-- Continuous Deployment is high leverage.
-  - Will save a lot of time in manual deployment of code.They are the people who get things done. Effective Engineers produce results.
-- Move Fast to Learn Fast
-  - Move fast and break things.
-  - Moving fast enables us to build more things and learn at faster rate.
-- Invest in time saving tools.
-  - If you have to do something more than twwise, write a tool the third time.
-  - Tools are multipliers that allow your to scale your impact beyond the confines of a day.
+### 投入持续集成的怀抱
+-  持续集成很有帮助
+  - 自动部署可以帮助开发人员节省部署时间
+- 快速行动，快速学习
+  - 分解要学习的知识，并快速学习
+  - 快速行动能让你做并学习更多的事情,
+-  投入时间使用能够帮你省时间的工具[善用佳软]   
+  - 如果一件事情做过两次，第三次写脚本,自动化你的工作
+  - 善用工具,三头六臂，大显神通.
   - Faster tools get used more often.
   - Faster tools can enable new workflows that previously weren't possible.
   - Productivity skyrockets with tools.
