@@ -74,20 +74,23 @@
 -  投入时间使用能够帮你省时间的工具[善用佳软]   
   - 如果一件事情做过两次，第三次写脚本,自动化你的工作
   - 善用工具,三头六臂，大显神通.
-  - Faster tools get used more often.
-  - Faster tools can enable new workflows that previously weren't possible.
+  - 经常使用效率高的工具
+  - 高效工具能是新的流畅更加高效
   - Productivity skyrockets with tools.
+  - 高效工具
   - Time saving property of tools also scale with team adoption.
-- Shorten your debugging and Validation Loops
-  - Extra time spent in optimizing debugging workflow can help you fix annoying bugs with less headache.
-  - Debugging is hard. It's time conuming. Upfront investments to shorten debugging loops are worth it.
+-  缩短代码调试和验证  
+  - 优化调试流程能够减少让人头疼的bug
+  - 代码调试很让人头疼.是时候投入资源,优化调试时间
 
 - High test coverage to reduce build and site breakages.
-- Fast unit tests to encourage people to run them.
-- Fast and incremental compiles and reloads to reduce development time.
+- 高质量的代码覆盖能够减少构建
+- 单元测试能够激励人们测试构建程序
+- 快速增量编译能减少开发等待时间。
 
-- Master you Programming Environment  
-  - One editor. One high level language. Shell. Keyboard > Mouse. Automate manual workflows. Use interactive shell. Make running specific tests easy.
+- 专业化开发环境
+  - 同一种工具 同一种高级开发语言,脚本语言，甚至是硬件环境[统一的软件和]
+  One editor. One high level language. Shell. Keyboard > Mouse. Automate manual workflows. Use interactive shell. Make running specific tests easy.
 ** Faster you can iterate, faster you can learn.**
 
 ### Measure what you want to Improve
