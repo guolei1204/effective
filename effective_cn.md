@@ -93,29 +93,30 @@
   One editor. One high level language. Shell. Keyboard > Mouse. Automate manual workflows. Use interactive shell. Make running specific tests easy.
 ** Faster you can iterate, faster you can learn.**
 
-### Measure what you want to Improve
-- Use metric to drive progress
-  - If you can't measure it, you can't improve it.
-  - Good metric.
-    - Helps you focus on right things.
-    - Drives forward progress.
-    - Helps you guard against future regressions.
+### 量化你要改进的东西
+- 用量化驱动
+  - 如果不能量化，就没办法改进
+  - 量化的好处
+    - 帮助你专注重要的事情
+    - 驱动你向前走
+    - 帮助你评估未来进程
     - **Performance Ratcheting**: Any change should strictly improve the metric.  
-    - Bad metric can lead to unwanted behavior.
-    - Examples:
-      - #hours worked < Productivity
-      - click through rates < long click through rates
+    - 任何变化应该严格量化评估
+    - 错误的量化会导致错误的结果
+    - 比如:
+      - 高效工作的时间
+      - 行为统计[idea helps short key caculations]
 
-  - Metric you choose influences your decisions and behavior.
-  - Look for metric that, when optimized, maximizes impact for the team.
-  - Actionable metric - Whose movement can be causally explained by team's effort.
-  - Responsive metric - Updates quickly to give back feedback whether a given change was =ve or -ive.
-  - Choosing a metric is high leverage.
-  - Dedicate time to pick right metric.
-- Instrument everythong to understand what's going on.
-  - Measure anything, measure everything.
-  - Graphite, statsd. A single line of code lets you define a new counter or timer on the fly.
-  - Measuring goals you want to achieve is high leverage.
+  - 量化影响你的决策和行动
+  - 对比团队量化统计前后，量化影响并改进你的团队
+  - 行为量化 -- 谁对团队的效率提升最大
+  - 量化相应的结果 -- 快速反馈变化的结果
+  - 选择量化指标非常重要
+  - 决策使用正确的量化指标
+- 量化并可视化任何事情，让你知道到底发生了什么。
+  - 量化任何事情,量化所有事情
+  - Graphite ,statsd. 一行简单的命令让你定义一个新的指标.
+  - 量化你想要达成的目标
 - Internalize useful numbers  
   - Knowledge of useful numbers provide a valuable shortcut for knowing where to invest efforts to maximize gains.
   - Need upfront work. Need not be accurate, ballpark idea suffices.
